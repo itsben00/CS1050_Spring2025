@@ -20,7 +20,7 @@ public class GuessNumber {
 
 	    int guess = -1;
 	    while (guess != number) {
-	      
+	      //"While "guess" doesn't equal to "number" do this ...
 	      System.out.print("\nEnter your guess: ");
 	      guess = input.nextInt();
 
