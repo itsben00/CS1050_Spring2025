@@ -5,7 +5,6 @@
 /**
  * 
  */
-import java.util.Scanner;
 
 public class M02L06MathChars {
 

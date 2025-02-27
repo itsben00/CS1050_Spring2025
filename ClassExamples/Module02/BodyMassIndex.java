@@ -2,7 +2,7 @@
  * Calculate the BMI using formula in US units
  * Use will enter weight in pounds and height in inches
  */
-
+import java.util.Scanner; 
 // ADD CODE to import Scanner class 
 
 public class BodyMassIndex
@@ -16,8 +16,11 @@ public class BodyMassIndex
 		double height; // The user's height
 		double bmi; // The user's BMI
 
+		Scanner input = new Scanner(System.in);
 		// Create a Scanner object for scanning  input from keyboard 
 		// ADD CODE name object variable input 
+		
+		
 
 		// Tell the user what the program will do.
 		System.out.println("This program will calculate your " + "body mass index, or BMI.");
@@ -25,7 +28,7 @@ public class BodyMassIndex
 		// Get the user's weight.
 		System.out.print("Enter your weight, in pounds: ");
 		// ADD CODE to input next double for weight
-
+		Double weight = scanner.nextLine();
 		// Get the user's height.
 		System.out.print("Enter your height, in inches: ");
 		// ADD CODE input next double for height
