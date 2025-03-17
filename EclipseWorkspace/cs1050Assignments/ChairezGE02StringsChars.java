@@ -77,15 +77,6 @@ public class ChairezGE02StringsChars
 		
 		
 		
-
-		
-		
-		
-		
-		
-		
-		
-		
 		//scanner close
 		input.close();
 	}
