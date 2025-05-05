@@ -1,0 +1,9 @@
+****** Gym Fitness Report ******
+Athlete: Method Master
+	Max Heart Rate: 200 bpm
+	Average Daily Calories Burned: 340.0
+	BMI: 25.8	  Category: Overweight
+Athlete: Jason Beast
+	Max Heart Rate: 192 bpm
+	Average Daily Calories Burned: 392.1
+	BMI: 24.3	  Category: Normal
